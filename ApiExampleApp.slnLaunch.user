@@ -1,0 +1,16 @@
+[
+  {
+    "Name": "New Profile",
+    "Projects": [
+      {
+        "Path": "ApiExampleApp\\ApiExampleApp\\ApiExampleApp.csproj",
+        "Action": "Start"
+      },
+      {
+        "Path": "ApiExampleApi\\ApiExampleApi.csproj",
+        "Action": "Start",
+        "DebugTarget": "IIS Express"
+      }
+    ]
+  }
+]

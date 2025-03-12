@@ -1,0 +1,207 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\PROJECTS\\ApiExampleApp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{022CFE4D-1563-44F1-96E5-E1CD770E862C}|ApiExampleApp\\ApiExampleApp\\ApiExampleApp.csproj|d:\\projects\\apiexampleapp\\apiexampleapp\\apiexampleapp\\components\\pages\\home.razor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{022CFE4D-1563-44F1-96E5-E1CD770E862C}|ApiExampleApp\\ApiExampleApp\\ApiExampleApp.csproj|solutionrelative:apiexampleapp\\apiexampleapp\\components\\pages\\home.razor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{19B237AD-E0F7-4932-AEF5-286A55AAAECA}|ApiExampleApi\\ApiExampleApi.csproj|d:\\projects\\apiexampleapp\\apiexampleapi\\models\\employeerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{19B237AD-E0F7-4932-AEF5-286A55AAAECA}|ApiExampleApi\\ApiExampleApi.csproj|solutionrelative:apiexampleapi\\models\\employeerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{19B237AD-E0F7-4932-AEF5-286A55AAAECA}|ApiExampleApi\\ApiExampleApi.csproj|d:\\projects\\apiexampleapp\\apiexampleapi\\controllers\\employeecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{19B237AD-E0F7-4932-AEF5-286A55AAAECA}|ApiExampleApi\\ApiExampleApi.csproj|solutionrelative:apiexampleapi\\controllers\\employeecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{022CFE4D-1563-44F1-96E5-E1CD770E862C}|ApiExampleApp\\ApiExampleApp\\ApiExampleApp.csproj|d:\\projects\\apiexampleapp\\apiexampleapp\\apiexampleapp\\services\\employeedataservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{022CFE4D-1563-44F1-96E5-E1CD770E862C}|ApiExampleApp\\ApiExampleApp\\ApiExampleApp.csproj|solutionrelative:apiexampleapp\\apiexampleapp\\services\\employeedataservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{022CFE4D-1563-44F1-96E5-E1CD770E862C}|ApiExampleApp\\ApiExampleApp\\ApiExampleApp.csproj|d:\\projects\\apiexampleapp\\apiexampleapp\\apiexampleapp\\components\\pages\\home.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{022CFE4D-1563-44F1-96E5-E1CD770E862C}|ApiExampleApp\\ApiExampleApp\\ApiExampleApp.csproj|solutionrelative:apiexampleapp\\apiexampleapp\\components\\pages\\home.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{19B237AD-E0F7-4932-AEF5-286A55AAAECA}|ApiExampleApi\\ApiExampleApi.csproj|d:\\projects\\apiexampleapp\\apiexampleapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{19B237AD-E0F7-4932-AEF5-286A55AAAECA}|ApiExampleApi\\ApiExampleApi.csproj|solutionrelative:apiexampleapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{19B237AD-E0F7-4932-AEF5-286A55AAAECA}|ApiExampleApi\\ApiExampleApi.csproj|d:\\projects\\apiexampleapp\\apiexampleapi\\data\\employeedatacontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{19B237AD-E0F7-4932-AEF5-286A55AAAECA}|ApiExampleApi\\ApiExampleApi.csproj|solutionrelative:apiexampleapi\\data\\employeedatacontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{19B237AD-E0F7-4932-AEF5-286A55AAAECA}|ApiExampleApi\\ApiExampleApi.csproj|d:\\projects\\apiexampleapp\\apiexampleapi\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{19B237AD-E0F7-4932-AEF5-286A55AAAECA}|ApiExampleApi\\ApiExampleApi.csproj|solutionrelative:apiexampleapi\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{19B237AD-E0F7-4932-AEF5-286A55AAAECA}|ApiExampleApi\\ApiExampleApi.csproj|d:\\projects\\apiexampleapp\\apiexampleapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{19B237AD-E0F7-4932-AEF5-286A55AAAECA}|ApiExampleApi\\ApiExampleApi.csproj|solutionrelative:apiexampleapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{022CFE4D-1563-44F1-96E5-E1CD770E862C}|ApiExampleApp\\ApiExampleApp\\ApiExampleApp.csproj|d:\\projects\\apiexampleapp\\apiexampleapp\\apiexampleapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{022CFE4D-1563-44F1-96E5-E1CD770E862C}|ApiExampleApp\\ApiExampleApp\\ApiExampleApp.csproj|solutionrelative:apiexampleapp\\apiexampleapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{022CFE4D-1563-44F1-96E5-E1CD770E862C}|ApiExampleApp\\ApiExampleApp\\ApiExampleApp.csproj|d:\\projects\\apiexampleapp\\apiexampleapp\\apiexampleapp\\services\\iemployeedataservice.cs||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{022CFE4D-1563-44F1-96E5-E1CD770E862C}|ApiExampleApp\\ApiExampleApp\\ApiExampleApp.csproj|solutionrelative:apiexampleapp\\apiexampleapp\\services\\iemployeedataservice.cs||{8B382828-6202-11D1-8870-0000F87579D2}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "IEmployeeDataService.cs",
+              "DocumentMoniker": "D:\\PROJECTS\\ApiExampleApp\\ApiExampleApp\\ApiExampleApp\\Services\\IEmployeeDataService.cs",
+              "RelativeDocumentMoniker": "ApiExampleApp\\ApiExampleApp\\Services\\IEmployeeDataService.cs",
+              "ToolTip": "D:\\PROJECTS\\ApiExampleApp\\ApiExampleApp\\ApiExampleApp\\Services\\IEmployeeDataService.cs",
+              "RelativeToolTip": "ApiExampleApp\\ApiExampleApp\\Services\\IEmployeeDataService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-12T16:28:35.791Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "EmployeeDataContext.cs",
+              "DocumentMoniker": "D:\\PROJECTS\\ApiExampleApp\\ApiExampleApi\\Data\\EmployeeDataContext.cs",
+              "RelativeDocumentMoniker": "ApiExampleApi\\Data\\EmployeeDataContext.cs",
+              "ToolTip": "D:\\PROJECTS\\ApiExampleApp\\ApiExampleApi\\Data\\EmployeeDataContext.cs",
+              "RelativeToolTip": "ApiExampleApi\\Data\\EmployeeDataContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAABNAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-11T17:07:35.565Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "EmployeeRepository.cs",
+              "DocumentMoniker": "D:\\PROJECTS\\ApiExampleApp\\ApiExampleApi\\Models\\EmployeeRepository.cs",
+              "RelativeDocumentMoniker": "ApiExampleApi\\Models\\EmployeeRepository.cs",
+              "ToolTip": "D:\\PROJECTS\\ApiExampleApp\\ApiExampleApi\\Models\\EmployeeRepository.cs",
+              "RelativeToolTip": "ApiExampleApi\\Models\\EmployeeRepository.cs",
+              "ViewState": "AgIAACUAAAAAAAAAAAAcwDcAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-11T17:45:11.338Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "EmployeeController.cs",
+              "DocumentMoniker": "D:\\PROJECTS\\ApiExampleApp\\ApiExampleApi\\Controllers\\EmployeeController.cs",
+              "RelativeDocumentMoniker": "ApiExampleApi\\Controllers\\EmployeeController.cs",
+              "ToolTip": "D:\\PROJECTS\\ApiExampleApp\\ApiExampleApi\\Controllers\\EmployeeController.cs",
+              "RelativeToolTip": "ApiExampleApi\\Controllers\\EmployeeController.cs",
+              "ViewState": "AgIAAD4AAAAAAAAAAAAwwFUAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-11T17:34:16.525Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "EmployeeDataService.cs",
+              "DocumentMoniker": "D:\\PROJECTS\\ApiExampleApp\\ApiExampleApp\\ApiExampleApp\\Services\\EmployeeDataService.cs",
+              "RelativeDocumentMoniker": "ApiExampleApp\\ApiExampleApp\\Services\\EmployeeDataService.cs",
+              "ToolTip": "D:\\PROJECTS\\ApiExampleApp\\ApiExampleApp\\ApiExampleApp\\Services\\EmployeeDataService.cs",
+              "RelativeToolTip": "ApiExampleApp\\ApiExampleApp\\Services\\EmployeeDataService.cs",
+              "ViewState": "AgIAACMAAAAAAAAAAAAIwDcAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-11T17:38:55.742Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Home.razor.cs",
+              "DocumentMoniker": "D:\\PROJECTS\\ApiExampleApp\\ApiExampleApp\\ApiExampleApp\\Components\\Pages\\Home.razor.cs",
+              "RelativeDocumentMoniker": "ApiExampleApp\\ApiExampleApp\\Components\\Pages\\Home.razor.cs",
+              "ToolTip": "D:\\PROJECTS\\ApiExampleApp\\ApiExampleApp\\ApiExampleApp\\Components\\Pages\\Home.razor.cs",
+              "RelativeToolTip": "ApiExampleApp\\ApiExampleApp\\Components\\Pages\\Home.razor.cs",
+              "ViewState": "AgIAACEAAAAAAAAAAAAywC4AAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-11T16:57:31.396Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Home.razor",
+              "DocumentMoniker": "D:\\PROJECTS\\ApiExampleApp\\ApiExampleApp\\ApiExampleApp\\Components\\Pages\\Home.razor",
+              "RelativeDocumentMoniker": "ApiExampleApp\\ApiExampleApp\\Components\\Pages\\Home.razor",
+              "ToolTip": "D:\\PROJECTS\\ApiExampleApp\\ApiExampleApp\\ApiExampleApp\\Components\\Pages\\Home.razor",
+              "RelativeToolTip": "ApiExampleApp\\ApiExampleApp\\Components\\Pages\\Home.razor",
+              "ViewState": "AgIAAEMAAAAAAAAAAAAAABAAAABHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-11T16:50:57.377Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "D:\\PROJECTS\\ApiExampleApp\\ApiExampleApi\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "ApiExampleApi\\Properties\\launchSettings.json",
+              "ToolTip": "D:\\PROJECTS\\ApiExampleApp\\ApiExampleApi\\Properties\\launchSettings.json",
+              "RelativeToolTip": "ApiExampleApi\\Properties\\launchSettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-03-11T17:36:50.979Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\PROJECTS\\ApiExampleApp\\ApiExampleApi\\Program.cs",
+              "RelativeDocumentMoniker": "ApiExampleApi\\Program.cs",
+              "ToolTip": "D:\\PROJECTS\\ApiExampleApp\\ApiExampleApi\\Program.cs",
+              "RelativeToolTip": "ApiExampleApi\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-11T17:10:29.87Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\PROJECTS\\ApiExampleApp\\ApiExampleApp\\ApiExampleApp\\Program.cs",
+              "RelativeDocumentMoniker": "ApiExampleApp\\ApiExampleApp\\Program.cs",
+              "ToolTip": "D:\\PROJECTS\\ApiExampleApp\\ApiExampleApp\\ApiExampleApp\\Program.cs",
+              "RelativeToolTip": "ApiExampleApp\\ApiExampleApp\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACMAAABIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-11T16:55:28.04Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\PROJECTS\\ApiExampleApp\\ApiExampleApi\\appsettings.json",
+              "RelativeDocumentMoniker": "ApiExampleApi\\appsettings.json",
+              "ToolTip": "D:\\PROJECTS\\ApiExampleApp\\ApiExampleApi\\appsettings.json",
+              "RelativeToolTip": "ApiExampleApi\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-03-12T04:13:11.191Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

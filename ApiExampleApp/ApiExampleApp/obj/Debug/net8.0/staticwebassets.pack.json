@@ -1,0 +1,45 @@
+{
+  "Files": [
+    {
+      "Id": "D:\\PROJECTS\\ApiExampleApp\\ApiExampleApp\\ApiExampleApp\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\ApiExampleApp.bundle.scp.css",
+      "PackagePath": "staticwebassets\\ApiExampleApp.uyr014bm8p.bundle.scp.css"
+    },
+    {
+      "Id": "D:\\PROJECTS\\ApiExampleApp\\ApiExampleApp\\ApiExampleApp\\wwwroot\\app.css",
+      "PackagePath": "staticwebassets\\app.css"
+    },
+    {
+      "Id": "D:\\PROJECTS\\ApiExampleApp\\ApiExampleApp\\ApiExampleApp\\wwwroot\\bootstrap\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\bootstrap\\bootstrap.min.css"
+    },
+    {
+      "Id": "D:\\PROJECTS\\ApiExampleApp\\ApiExampleApp\\ApiExampleApp\\wwwroot\\bootstrap\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\bootstrap\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "D:\\PROJECTS\\ApiExampleApp\\ApiExampleApp\\ApiExampleApp\\wwwroot\\favicon.png",
+      "PackagePath": "staticwebassets\\favicon.png"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.ApiExampleApp.Microsoft.AspNetCore.StaticWebAssetEndpoints.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssetEndpoints.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.ApiExampleApp.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.ApiExampleApp.props",
+      "PackagePath": "build\\ApiExampleApp.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.ApiExampleApp.props",
+      "PackagePath": "buildMultiTargeting\\ApiExampleApp.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.ApiExampleApp.props",
+      "PackagePath": "buildTransitive\\ApiExampleApp.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

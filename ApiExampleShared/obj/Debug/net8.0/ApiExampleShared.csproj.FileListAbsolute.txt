@@ -1,0 +1,14 @@
+D:\PROJECTS\ApiExampleApp\ApiExampleShared\bin\Debug\net8.0\ApiExampleShared.exe
+D:\PROJECTS\ApiExampleApp\ApiExampleShared\bin\Debug\net8.0\ApiExampleShared.deps.json
+D:\PROJECTS\ApiExampleApp\ApiExampleShared\bin\Debug\net8.0\ApiExampleShared.runtimeconfig.json
+D:\PROJECTS\ApiExampleApp\ApiExampleShared\bin\Debug\net8.0\ApiExampleShared.dll
+D:\PROJECTS\ApiExampleApp\ApiExampleShared\bin\Debug\net8.0\ApiExampleShared.pdb
+D:\PROJECTS\ApiExampleApp\ApiExampleShared\obj\Debug\net8.0\ApiExampleShared.GeneratedMSBuildEditorConfig.editorconfig
+D:\PROJECTS\ApiExampleApp\ApiExampleShared\obj\Debug\net8.0\ApiExampleShared.AssemblyInfoInputs.cache
+D:\PROJECTS\ApiExampleApp\ApiExampleShared\obj\Debug\net8.0\ApiExampleShared.AssemblyInfo.cs
+D:\PROJECTS\ApiExampleApp\ApiExampleShared\obj\Debug\net8.0\ApiExampleShared.csproj.CoreCompileInputs.cache
+D:\PROJECTS\ApiExampleApp\ApiExampleShared\obj\Debug\net8.0\ApiExampleShared.dll
+D:\PROJECTS\ApiExampleApp\ApiExampleShared\obj\Debug\net8.0\refint\ApiExampleShared.dll
+D:\PROJECTS\ApiExampleApp\ApiExampleShared\obj\Debug\net8.0\ApiExampleShared.pdb
+D:\PROJECTS\ApiExampleApp\ApiExampleShared\obj\Debug\net8.0\ApiExampleShared.genruntimeconfig.cache
+D:\PROJECTS\ApiExampleApp\ApiExampleShared\obj\Debug\net8.0\ref\ApiExampleShared.dll

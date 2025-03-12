@@ -1,0 +1,37 @@
+{
+  "Files": [
+    {
+      "Id": "D:\\PROJECTS\\ApiExampleApp\\ApiExampleApp\\ApiExampleApp.Client\\bin\\Debug\\net8.0\\wwwroot\\_framework\\blazor.webassembly.js",
+      "PackagePath": "staticwebassets\\_framework\\blazor.webassembly.js"
+    },
+    {
+      "Id": "D:\\PROJECTS\\ApiExampleApp\\ApiExampleApp\\ApiExampleApp.Client\\wwwroot\\appsettings.Development.json",
+      "PackagePath": "staticwebassets\\appsettings.Development.json"
+    },
+    {
+      "Id": "D:\\PROJECTS\\ApiExampleApp\\ApiExampleApp\\ApiExampleApp.Client\\wwwroot\\appsettings.json",
+      "PackagePath": "staticwebassets\\appsettings.json"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.ApiExampleApp.Client.Microsoft.AspNetCore.StaticWebAssetEndpoints.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssetEndpoints.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.ApiExampleApp.Client.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.ApiExampleApp.Client.props",
+      "PackagePath": "build\\ApiExampleApp.Client.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.ApiExampleApp.Client.props",
+      "PackagePath": "buildMultiTargeting\\ApiExampleApp.Client.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.ApiExampleApp.Client.props",
+      "PackagePath": "buildTransitive\\ApiExampleApp.Client.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
